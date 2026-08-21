@@ -63,12 +63,18 @@
 
 <hr />
 
-<!-- GitHub Statistics (Alternatif Server Bebas Rate Limit & Bebas Bug) -->
+<!-- GitHub Statistics (Perbaikan Ukuran Seragam dengan Tabel HTML) -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=tokyonight" width="49%" />
-</p>
+<table align="center" border="0" width="100%" style="border-collapse: collapse;">
+  <tr align="center">
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
+    </td>
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
+    </td>
+  </tr>
+</table>
 
 <!-- Activity Graph -->
 <p align="center">
