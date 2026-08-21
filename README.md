@@ -56,7 +56,7 @@
       <p align="center"><i>"Building robust software solutions & modern web apps."</i></p>
     </td>
     <td width="30%" style="border: none;">
-      <img src="https://media.giphy.com/media/L1R1tvI9svvIY/giphy.gif" width="160" />
+      <img src="[https://media.giphy.com/media/L1R1tvI9svvIY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnltYW5ucmN3Nmd5emtqeW9tZG5hZ2VwYjhzNWU3MXl2eWxndzBhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmTwNdfSoA9BNnTkKA/giphy.gif)" width="160" />
     </td>
   </tr>
 </table>
