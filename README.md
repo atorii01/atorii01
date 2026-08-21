@@ -66,8 +66,8 @@
 <!-- GitHub Statistics (Menggunakan CDN API Server Alternatif Cepat & Bebas Error) -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=atorii01&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atorii01&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=tokyonight" width="49%" />
 </p>
 
 <!-- Activity Graph -->
