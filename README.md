@@ -45,18 +45,18 @@
 
 <hr />
 
-<!-- Pokémon Workspace Showcase -->
+<!-- Workspace Showcase (Coding GIF) -->
 <table align="center" border="0" width="100%">
   <tr align="center">
     <td width="30%" style="border: none;">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="150" />
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4FmPdRYf/giphy.gif" width="160" />
     </td>
     <td width="40%" style="border: none;">
       <h3 align="center">⚡ Welcome to My Workspace</h3>
-      <p align="center"><i>"Designing modern websites & robust software solutions."</i></p>
+      <p align="center"><i>"Building robust software solutions & modern web apps."</i></p>
     </td>
     <td width="30%" style="border: none;">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/6.png" width="150" />
+      <img src="https://media.giphy.com/media/L1R1tvI9svvIY/giphy.gif" width="160" />
     </td>
   </tr>
 </table>
