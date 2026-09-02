@@ -57,16 +57,11 @@
 
 <hr />
 
-<!-- GitHub Statistics (Stabil & Kompatibel) -->
+<!-- GitHub Statistics (Streak & Top Languages) -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atorii01&show_icons=true&theme=tokyonight&locale=en" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&theme=tokyonight" height="175" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atorii01&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atorii01&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <!-- Footer Wave -->
