@@ -57,7 +57,18 @@
 
 <hr />
 
-<!-- GitHub Statistics (Menggunakan Streak Stats yang 100% Aktif) -->
+<!-- Current Focus & Projects -->
+<h3 align="center">🚀 What I'm Working On / Programs</h3>
+<p align="center">
+  🌐 <b>Full-Stack Web App</b> — Laravel, Bootstrap & MySQL/PostgreSQL<br />
+  ⚙️ <b>Backend & REST APIs</b> — Python, PHP & C#<br />
+  🐧 <b>Server & Infrastructure</b> — Nginx & Debian Deployment<br />
+  🛠️ <b>Desktop / Utility Tools</b> — C# & Python Scripting
+</p>
+
+<hr />
+
+<!-- GitHub Statistics -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=tokyonight&hide_border=true" height="170" />
