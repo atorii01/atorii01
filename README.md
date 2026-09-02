@@ -13,7 +13,7 @@
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atorii01&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
- <img src="https://komarev.com/ghpvc/?username=atorii01&color=8A2BE2&style=for-the-badge&label=FOLLOWERS" alt="followers" />
+ <img src="https://img.shields.io/github/followers/atorii01?color=8A2BE2&style=for-the-badge&logo=github&label=FOLLOWERS" alt="followers" />
 </p>
 
 <br />
