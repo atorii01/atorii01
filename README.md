@@ -10,10 +10,10 @@
   </a>
 </p>
 
-<!-- Profile Views & Followers Badge -->
+<!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atorii01&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/atorii01?color=8A2BE2&style=for-the-badge&logo=github&label=FOLLOWERS" alt="followers" />
+ <img src="https://img.shields.io/github/followers/atorii01?color=8A2BE2&style=for-the-badge&logo=github&label=FOLLOWERS" alt="followers" />
 </p>
 
 <br />
@@ -47,31 +47,39 @@
 <hr />
 
 <!-- Ferrari F1 Workspace Showcase -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LmTwNdfSoA9BNnTkKA/giphy.gif" width="30%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/4aUyJNWBFJrmxeTPRw/giphy.gif" width="30%" />
-</p>
-<h3 align="center">🏎️ Welcome to My Workspace</h3>
-<p align="center"><i>"Building high-performance software & web applications."</i></p>
+<table align="center" border="0" width="100%">
+  <tr align="center">
+    <td width="35%" style="border: none;">
+      <img src="https://media.giphy.com/media/LmTwNdfSoA9BNnTkKA/giphy.gif" width="220" style="border-radius: 8px;" />
+    </td>
+    <td width="30%" style="border: none;">
+      <h3 align="center">🏎️ Welcome to My Workspace</h3>
+      <p align="center"><i>"Building high-performance software & web applications."</i></p>
+    </td>
+    <td width="35%" style="border: none;">
+      <img src="https://media.giphy.com/media/4aUyJNWBFJrmxeTPRw/giphy.gif" width="220" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 <hr />
 
-<!-- Current Focus & Projects -->
-<h3 align="center">🚀 What I'm Working On / Programs</h3>
-<p align="center">
-  🌐 <b>Full-Stack Web App</b> — Laravel, Bootstrap & MySQL/PostgreSQL<br />
-  ⚙️ <b>Backend & REST APIs</b> — Python, PHP & C#<br />
-  🐧 <b>Server & Infrastructure</b> — Nginx & Debian Deployment<br />
-  🛠️ <b>Desktop / Utility Tools</b> — C# & Python Scripting
-</p>
-
-<hr />
-
-<!-- GitHub Statistics -->
+<!-- GitHub Statistics (Perbaikan Ukuran Seragam dengan Tabel HTML) -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
+<table align="center" border="0" width="100%" style="border-collapse: collapse;">
+  <tr align="center">
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
+    </td>
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
+    </td>
+  </tr>
+</table>
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atorii01&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 <!-- Footer Wave -->
