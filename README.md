@@ -67,16 +67,17 @@
 <!-- GitHub Statistics (Perbaikan Ukuran Seragam dengan Tabel HTML) -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
   <tr align="center">
-    <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
-    </td>
-    <td width="50%" style="border: none; padding: 0 5px;">
+      <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=tokyonight&hide_border=true" height="170" />
+</p>
+        <td width="50%" style="border: none; padding: 0 5px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
     </td>
   </tr>
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=tokyonight&hide_border=true" height="170" />
-</p>
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
+    </td>
+
 
 <!-- Footer Wave -->
 <p align="center">
