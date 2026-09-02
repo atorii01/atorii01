@@ -77,11 +77,6 @@
   </tr>
 </table>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atorii01&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer" width="100%" />
