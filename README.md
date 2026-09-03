@@ -22,7 +22,8 @@
 <p align="center"><b>🛠️ Languages, Frameworks & Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,laravel,bootstrap,mysql,postgres,nginx,debian,git,github,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,laravel,bootstrap,mysql,postgres,nginx,debian,git,github,vscode,postman,figma,antigravity
+      " />
   </a>
 </p>
 
