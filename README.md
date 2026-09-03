@@ -13,7 +13,7 @@
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atorii01&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
- <img src="https://img.shields.io/github/followers/atorii01?color=8A2BE2&style=for-the-badge&logo=github&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/github/followers/atorii01?color=8A2BE2&style=for-the-badge&logo=github&label=FOLLOWERS" alt="followers" />
 </p>
 
 <br />
@@ -64,20 +64,16 @@
 
 <hr />
 
-<!-- GitHub Statistics (Perbaikan Ukuran Seragam dengan Tabel HTML) -->
+<!-- GitHub Statistics -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
-  <tr align="center">
-      <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=tokyonight&hide_border=true" height="170" />
 </p>
-        <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
-    </td>
-  </tr>
-    <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="220" style="width: 100%; object-fit: contain;" />
-    </td>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="170" />
+</p>
 
 <!-- Footer Wave -->
 <p align="center">
