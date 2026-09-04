@@ -73,12 +73,12 @@
 
 <table align="center" border="0" width="100%">
   <tr align="center">
-    <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&custom_title=My%20Programming%20Languages&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=000000&langs_count=5" height="180" style="width: 100%; object-fit: contain;" />
+    <td width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&custom_title=My%20Programming%20Languages&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=5" height="180" />
     </td>
 
-    <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=github_dark" height="180" style="width: 100%; object-fit: contain;" />
+    <td width="50%" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=github_dark" height="180" />
     </td>
   </tr>
 </table>
