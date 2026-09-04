@@ -70,10 +70,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="170" />
-</p>
+<table align="center" border="0" width="100%">
+  <tr align="center">
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=solarized-light" height="200" style="width: 100%; object-fit: contain;" />
+    </td>
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="200" style="width: 100%; object-fit: contain;" />
+    </td>
+  </tr>
+</table>
 
 <!-- Footer Wave -->
 <p align="center">
