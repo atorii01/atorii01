@@ -19,7 +19,10 @@
 <br />
 
 <!-- Tech Stack & Tools -->
-<p align="center"><b>🛠️ Languages, Frameworks & Tools</b></p>
+<p align="center">
+  <b>🛠️ Languages, Frameworks & Tools</b>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,php,python,cs,laravel,bootstrap,mysql,postgres,nginx,debian,git,github,postman,figma,androidstudio,aws,dotnet" />
@@ -33,12 +36,15 @@
   <a href="mailto:petermaleke09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/atorii01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/peter-maleke-0022123bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://discord.com/users/atorii_01">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -49,41 +55,235 @@
 <!-- Ferrari F1 Workspace Showcase -->
 <table align="center" border="0" width="100%">
   <tr align="center">
+
     <td width="35%" style="border: none;">
-      <img src="https://media.giphy.com/media/LmTwNdfSoA9BNnTkKA/giphy.gif" width="220" style="border-radius: 8px;" />
+      <img
+        src="https://media.giphy.com/media/LmTwNdfSoA9BNnTkKA/giphy.gif"
+        width="220"
+        style="border-radius: 8px;"
+      />
     </td>
+
     <td width="30%" style="border: none;">
       <h3 align="center">🏎️ Welcome to My Workspace</h3>
-      <p align="center"><i>"Building high-performance software & web applications."</i></p>
+
+      <p align="center">
+        <i>"Building high-performance software & web applications."</i>
+      </p>
     </td>
+
     <td width="35%" style="border: none;">
-      <img src="https://media.giphy.com/media/4aUyJNWBFJrmxeTPRw/giphy.gif" width="220" style="border-radius: 8px;" />
+      <img
+        src="https://media.giphy.com/media/4aUyJNWBFJrmxeTPRw/giphy.gif"
+        width="220"
+        style="border-radius: 8px;"
+      />
     </td>
+
   </tr>
 </table>
 
 <hr />
 
 <!-- GitHub Statistics -->
-<p align="center"><b>📊 GitHub Metrics</b></p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=dark&hide_border=true" height="170" />
+  <b>📊 GitHub Metrics</b>
 </p>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<!-- Languages + Profile Details -->
 <table align="center" border="0" width="100%">
   <tr align="center">
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&custom_title=My%20Programming%20Languages&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=5" height="180" />
+
+    <!-- Programming Languages -->
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&custom_title=My%20Programming%20Languages&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=5"
+        height="180"
+        style="width: 100%; object-fit: contain;"
+        alt="My Programming Languages"
+      />
     </td>
 
-    <td width="50%" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=github_dark" height="180" />
+    <!-- Profile Details -->
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=github_dark"
+        height="180"
+        style="width: 100%; object-fit: contain;"
+        alt="GitHub Profile Details"
+      />
     </td>
+
   </tr>
 </table>
 
+<br />
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=atorii01&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+</p>
+
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer"
+    width="100%"
+  />
+</p><!-- Header Banner Penuh & Elegan -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Hi%20there,%20I'm%20Peter%20👋&fontSize=50&fontColor=fff&animation=twinkling" width="100%" />
+</p>
+
+<!-- Typing Animation Subtitle -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Software+%26+Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atorii01&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://img.shields.io/github/followers/atorii01?color=8A2BE2&style=for-the-badge&logo=github&label=FOLLOWERS" alt="followers" />
+</p>
+
+<br />
+
+<!-- Tech Stack & Tools -->
+<p align="center">
+  <b>🛠️ Languages, Frameworks & Tools</b>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,php,python,cs,laravel,bootstrap,mysql,postgres,nginx,debian,git,github,postman,figma,androidstudio,aws,dotnet" />
+  </a>
+</p>
+
+<br />
+
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="mailto:petermaleke09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/atorii01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/peter-maleke-0022123bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/atorii_01">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<hr />
+
+<!-- Ferrari F1 Workspace Showcase -->
+<table align="center" border="0" width="100%">
+  <tr align="center">
+
+    <td width="35%" style="border: none;">
+      <img
+        src="https://media.giphy.com/media/LmTwNdfSoA9BNnTkKA/giphy.gif"
+        width="220"
+        style="border-radius: 8px;"
+      />
+    </td>
+
+    <td width="30%" style="border: none;">
+      <h3 align="center">🏎️ Welcome to My Workspace</h3>
+
+      <p align="center">
+        <i>"Building high-performance software & web applications."</i>
+      </p>
+    </td>
+
+    <td width="35%" style="border: none;">
+      <img
+        src="https://media.giphy.com/media/4aUyJNWBFJrmxeTPRw/giphy.gif"
+        width="220"
+        style="border-radius: 8px;"
+      />
+    </td>
+
+  </tr>
+</table>
+
+<hr />
+
+<!-- GitHub Statistics -->
+<p align="center">
+  <b>📊 GitHub Metrics</b>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=atorii01&theme=dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<!-- Languages + Profile Details -->
+<table align="center" border="0" width="100%">
+  <tr align="center">
+
+    <!-- Programming Languages -->
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&layout=compact&custom_title=My%20Programming%20Languages&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=5"
+        height="180"
+        style="width: 100%; object-fit: contain;"
+        alt="My Programming Languages"
+      />
+    </td>
+
+    <!-- Profile Details -->
+    <td width="50%" style="border: none; padding: 0 5px;">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=github_dark"
+        height="180"
+        style="width: 100%; object-fit: contain;"
+        alt="GitHub Profile Details"
+      />
+    </td>
+
+  </tr>
+</table>
+
+<br />
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=atorii01&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer"
+    width="100%"
+  />
 </p>
