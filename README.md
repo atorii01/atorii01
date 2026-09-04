@@ -73,10 +73,10 @@
 <table align="center" border="0" width="100%">
   <tr align="center">
     <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atorii01&theme=solarized-light" height="200" style="width: 100%; object-fit: contain;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorii01&title_color=000000&text_color=333333&bg_color=fdfbf7&hide_border=false&border_color=e2e2e2&layout=compact&custom_title=My%20Programming%20Languages&langs_count=5" height="180" style="width: 100%; object-fit: contain;" />
     </td>
     <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="200" style="width: 100%; object-fit: contain;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atorii01&theme=tokyonight" height="180" style="width: 100%; object-fit: contain;" />
     </td>
   </tr>
 </table>
