@@ -76,7 +76,7 @@
       <img src="https://github-readme-stats.shion.dev/api?username=atorii01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td width="50%" style="border: none; padding: 0 5px;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=atorii01&theme=tokyonight" height="180" style="width: 100%; object-fit: contain;" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=atorii01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
