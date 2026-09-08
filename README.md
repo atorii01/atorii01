@@ -67,7 +67,7 @@
 <!-- GitHub Statistics -->
 <p align="center"><b>📊 GitHub Metrics</b></p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=atorii01&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=atorii01&theme=tokyonight&hide_border=false" />
 </p>
 
 <table align="center" border="0" width="100%">
