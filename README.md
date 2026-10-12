@@ -6,7 +6,7 @@
 <!-- Typing Animation Subtitle -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Software+%26+Full-Stack+Web+Developer+Student;Building+Scalable+Web+Applications;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Software+%26+Full-Stack+Web+Developer+Student;Delivering+High-Performance+Web+Applications;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </p>
 
