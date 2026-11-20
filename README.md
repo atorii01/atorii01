@@ -24,7 +24,7 @@
 <p align="center"><b>🛠️ Languages, Frameworks, Cloud & Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,golang,kotlin,python,cs,php,html,css,react,nextjs,nodejs,tailwind,bootstrap,dotnet,postgres,mysql,firebase,supabase,docker,aws,nginx,linux,git,github,postman,androidstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,golang,kotlin,python,cs,php,html,css,react,nextjs,nodejs,tailwind,bootstrap,dotnet,postgres,mysql,firebase,supabase,vercel,docker,aws,nginx,linux,git,github,postman,androidstudio,vscode&perline=14" />
   </a>
 </p>
 
